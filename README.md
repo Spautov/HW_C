@@ -1,1 +1,1 @@
-# HW_C
+my homeworks repositary of C
